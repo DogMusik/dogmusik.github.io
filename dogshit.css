@@ -1,0 +1,32 @@
+body {
+  background: url("Mascot.png");
+  color: #00268d;
+}
+p {
+  font-family: cursive;
+  margin: 10px;
+}
+h1 {
+  font-weight: bold;
+}
+h2 {
+  text-decoration: underline wavy; 
+}
+
+h3 {
+  text-decoration: underline wavy; 
+  text-align: right;
+
+}
+h4 {
+  color:#159418;
+}
+h5 {
+  font-family: monospace;
+}
+h6 {
+  
+}
+
+
+});
